@@ -54,7 +54,7 @@ const Home = () => {
     return (
         <Container sx={{ mt: 5 }}>
             <Typography variant="h4" align="center" gutterBottom>
-                Browse Open Positions
+                Browse Open Positions By Category
             </Typography>
             <Typography variant="subtitle1" align="center" gutterBottom>
                 We are always on the lookout for talented people
